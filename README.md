@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Germán Valencia</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
+<p align="left">
+  I am a Full Stack Developer with skills to carry out web projects and single page applications (SPA). Passionate about the IT world, I enjoy the possibility that programming and web development gives me to create incredible solutions that positively impact the technological world that surrounds us. During my soyHenry bootcamp course and other web development courses I prepared myself and acquired knowledge in technologies such as:
 
+HTML - CSS - JavaScript - React - Redux - NodeJs - Express - Sequelize - PostgreSQL - Git - Github
+
+I also have knowledge in agile SCRUM methodologies, together with this I have the facility to integrate myself and contribute all my potential to the work team. I am dynamic and curious, I like to solve problems, be constantly learning, and share what I know with others.
+</p>
 - 🔭 I’m currently working on **e-commerce app**
 
 <h3 align="left">Connect with me:</h3>
