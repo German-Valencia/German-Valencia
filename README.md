@@ -13,7 +13,7 @@ I also have knowledge in agile SCRUM methodologies, together with this I have th
 <p align="left">
 <a href="https://linkedin.com/in/germán-alberto-valencia-torres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="germán-alberto-valencia-torres" height="30" width="40" /></a>
 </p>
-<p>📫 gavtl@yahoo.com</p>
+<p>📫 antsoftdesign@gmail.com</p>
 <p>📞 +57 3157456280</p>
 
 
